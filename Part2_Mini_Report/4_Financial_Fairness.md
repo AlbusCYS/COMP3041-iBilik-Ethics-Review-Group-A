@@ -1,3 +1,5 @@
 iBilik's financial terms meet the letter of the SE Code's honesty clauses but diverge from their purpose.
 Fees, revisions and refund restrictions are disclosed, so Clause 1.06 ("be fair and avoid deception") is arguably satisfied.
 However, the terms are drafted to protect the provider rather than to inform the user, which places them in tension with Clauses 3.01, 6.07, 1.01 and 1.07.
+
+Tenants and guests pay service fees and, if paying from abroad, foreign-currency charges whose amounts are not stated in the Terms. Landlords and agents subscribing to iBilikPlus are exposed to unilateral fee increases and non-refundable payments. Once their tenancy records sit on the app, leaving is costly. The operating company gains revenue certainty but risks reputational damage. Indirectly, parents and guarantors who fund students' deposits bear losses without ever using the app.
